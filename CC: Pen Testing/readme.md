@@ -166,7 +166,9 @@ _____________
   ![gobuster](https://res.cloudinary.com/micro0x00/image/upload/v1615286314/gobuster_x25mvh.png)
 
 answer : **secret**
+
 #14. **What is the name of the hidden file with the extension xxa ?**
+
 answer : **password**
 _________________
 ## Task 5 (Nikto)
@@ -192,11 +194,14 @@ ______
   answer : **-id**
 __________________
 #5.  **How do you select which plugin to use?**
+ 
  answer : **-plugins**
 ___________________________________
 #6. **Which plugin checks if you can enumerate apache users ?**
 run `└─ $ nikto --list-plugins`
+
 ![enter image description here](https://res.cloudinary.com/micro0x00/image/upload/v1615288529/nako_duiykl.png)
+
 answer : apacheusers
 ______________________
 #7. How do you update the plugin list  ?
@@ -205,11 +210,13 @@ answer : -update
 _____
 
 #8. How do you list all possible plugins to use ?
+
 answer : --list-plugins
 ______
 ## Task 6 (Metasploite intro)
 #1.
 Metasploit is one of the most popular penetration testing frameworks around. It contains a large database of almost every major CVE, which you can easily use against a machine. The aim of this section is to go through some of the major features of metasploit, and at the end there will be a machine that you will need to exploit.  
+
 **No answer needed**
 ______________________
 ## Task 7 (Metasploite Setting up)
@@ -233,6 +240,7 @@ _____
 answer: **advanced**
 ______
  #6. **How do you show options in a specific category ?**
+
 answer : **show**
 _______________________
 ## Task 8 (MetaSploite )
