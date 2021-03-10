@@ -3,8 +3,9 @@
 ### In this writeup Today we're going to try to Solve a room in THM called  [CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
 ## Task 1 
-This Section is a Introduction about the room 
- **no answer needed**
+This Section is a Introduction about the room  
+
+**no answer needed**
 
 ## Task 2 (Nmap)
 This Section Called Nmap in this Section You Will Use Nmap to Scan  & Recon The Machine
@@ -14,6 +15,7 @@ Nmap is one of the most important tools for pentesting, if you don't know Nmap u
 ![Man Nmap](https://res.cloudinary.com/micro0x00/image/upload/v1615225214/Screenshot_2021-03-08_192242_asg6li.png)
 It will show you everything about nmap
 #1. **What does nmap stand for ?**
+
 answer : **Network Mapper**
 __________________
 
@@ -65,6 +67,7 @@ after that run** `$ nmap -A -sC -sV -O <IP Address>`
 ![the scan](https://res.cloudinary.com/micro0x00/image/upload/v1615274991/ths_scan_fsxmjf.png)
 _____________________________
 #10. **How many ports are open on the machine ?**
+
 answer :  **1**
 __________________________
 #11. **What service is running on the machine ?**
@@ -72,9 +75,11 @@ __________________________
 answer : **apache**
 ______________________________________________
 #12. **What is the version of the service ?**
+
 answer : **2.4.18**
 ________________
 #13. **What is the output of the http-title script(included in default scripts) ?**
+
 answer : **Apache2 Ubuntu Default Page: It Works**
 ____________
 ## Task 3 (NetCat)
